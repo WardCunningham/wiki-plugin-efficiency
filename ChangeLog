@@ -12,3 +12,9 @@ Wiki Plugin - efficiency
   date: 2014-01-07
   changes:
     - Migrated to fedwiki GitHub organization
+
+0.1.2
+  date: 2014-06-01
+  changes:
+    - add about page
+    - update devDependencies
