@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Efficiency Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-efficiency/blob/master/LICENSE.txt
+###
+
 window.plugins.efficiency =
 
   emit: (div, item) ->
