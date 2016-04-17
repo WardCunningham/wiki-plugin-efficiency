@@ -1,6 +1,6 @@
 {
   "name": "wiki-plugin-efficiency",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Federated Wiki - Efficiency Plug-in",
   "keywords": [
     "wiki",
@@ -36,10 +36,10 @@
   "licenses": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedwiki/wiki-plugin-efficiency.git"
+    "url": "https://github.com/wardcunningham/wiki-plugin-efficiency.git"
   },
   "bugs": {
-    "url": "https://github.com/fedwiki/wiki-plugin-efficiency/issues"
+    "url": "https://github.com/wardcunningham/wiki-plugin-efficiency/issues"
   },
   "engines": {
     "node": ">=0.10"
